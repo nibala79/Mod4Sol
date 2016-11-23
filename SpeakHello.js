@@ -16,6 +16,7 @@
 	}
 
 	window.helloSpeaker=helloSpeaker;
+	
 })(window);
 
 
